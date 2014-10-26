@@ -1,0 +1,23 @@
+{
+  "name": "text.css",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cssmagic/text.css",
+  "authors": [
+    "cssmagic"
+  ],
+  "description": "Format your article in style.",
+  "main": "dist/text.css",
+  "keywords": [
+    "text",
+    "style"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo"
+  ]
+}
