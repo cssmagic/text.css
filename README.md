@@ -1,3 +1,9 @@
-# TEXT.CSS
+# Text.css
 
-Format your article in style.
+Format text in style.
+
+***
+
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)

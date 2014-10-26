@@ -5,10 +5,14 @@
   "authors": [
     "cssmagic"
   ],
-  "description": "Format your article in style.",
+  "description": "Format text in style.",
   "main": "dist/text.css",
   "keywords": [
     "text",
+    "article",
+    "paragraph",
+    "document",
+    "typography",
     "style"
   ],
   "license": "MIT",
