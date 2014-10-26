@@ -1,4 +1,3 @@
-text.css
-========
+# TEXT.CSS
 
-Format your artical in style.
+Format your article in style.
