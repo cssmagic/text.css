@@ -1,9 +1,8 @@
 {
   "name": "text.css",
-  "version": "0.0.0",
   "homepage": "https://github.com/cssmagic/text.css",
   "authors": [
-    "cssmagic"
+    "cssmagic <cssmagic.cn@gmail.com>"
   ],
   "description": "Format text in style.",
   "main": "dist/text.css",
